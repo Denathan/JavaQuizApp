@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JavaQuizAPP</string>
+    <string name="name_field">PODAJ SWOJE IMIĘ PONIŻEJ</string>
+    <string name="hint">Twoje imie</string>
+    <string name="submit">SPRAWDŹ</string>
+    <string name="first_q">1.Wybierz słowa zarezerwowane.</string>
+    <string name="second_q">2.Które z poniższych nie jest typem danych.</string>
+    <string name="third_q">3.Jaki zasięg liczbowy ma bit.</string>
+    <string name="fourth_q">4.Który z typów danych ma dwie możliwe wartości?</string>
+    <string name="fifth_q">5.Możemy definiować tylko globalne zmienne</string>
+    <string name="checkbox_one">break</string>
+    <string name="checkbox_two">public</string>
+    <string name="checkbox_three">String</string>
+    <string name="checkbox_four">delete</string>
+    <string name="radio_one">int</string>
+    <string name="radio_two">long</string>
+    <string name="radio_three">float</string>
+    <string name="radio_four">text</string>
+    <string name="from">od</string>
+    <string name="to">do</string>
+    <string name="hint_three">Wprowadź typ danych</string>
+    <string name="radio_five">prawda</string>
+    <string name="radio_six">fałsz</string>
+</resources>
