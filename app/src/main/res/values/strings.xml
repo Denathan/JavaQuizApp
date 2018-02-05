@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">JavaQuizAPP</string>
+    <string name="name_field">ENTER YOUR NAME BELOW:</string>
+    <string name="hint">Your name</string>
+    <string name="submit">SUBMIT</string>
+
+    <!--QUESTIONS-->
+    <string name="first_q">1. Choose reserved words.</string>
+    <string name="second_q">2. Which one isn\'t a data type.</string>
+    <string name="third_q">3. What\'s the number range of byte.</string>
+    <string name="fourth_q">4. Which data type has two possible values?</string>
+    <string name="fifth_q">5. We can define only global variables.</string>
+
+    <!--First answers-->
+    <string name="checkbox_one">break</string>
+    <string name="checkbox_two">public</string>
+    <string name="checkbox_three">String</string>
+    <string name="checkbox_four">delete</string>
+
+    <!--Second answers-->
+    <string name="radio_one">int</string>
+    <string name="radio_two">long</string>
+    <string name="radio_three">float</string>
+    <string name="radio_four">text</string>
+
+    <!--Third answers-->
+    <string name="from">from</string>
+    <string name="hint_one"><font size="14sp">number</font></string>
+    <string name="to">to</string>
+    <string name="hint_two"><font size="14sp">number</font></string>
+
+    <!--Fourth answers-->
+    <string name="hint_three">Enter data type</string>
+
+    <!--Fifth answers-->
+    <string name="radio_five">true</string>
+    <string name="radio_six">false</string>
+</resources>
