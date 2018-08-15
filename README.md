@@ -6,7 +6,7 @@
 
 **Project Description:** Design and implement a short quiz app about some topic you are familiar with.
 
-**What I learnt:**
+**What I've learned:**
  -   Planning app design before coding.
 -   Taking an app layout from drawing to XML code.
 -   Creating, positioning, and styling views.
